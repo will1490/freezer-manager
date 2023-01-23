@@ -1,0 +1,8 @@
+{
+  "name": "Freezer-Manager",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "d86e7327"
+}
